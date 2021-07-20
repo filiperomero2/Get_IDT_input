@@ -1,6 +1,6 @@
 # Get_IDT_input
 
-This repo contains a simple python script to generate fasta files with a specific format required by IDT to perform primer design with rhAmp technology. It has been released as part of a protocol for SARS-CoV-2 variants detection, but can be used for other models. 
+This repo contains a simple python script to generate fasta files with a specific format required by IDT to perform primer design with rhAmp technology. It has been released as part of a protocol for SARS-CoV-2 variants detection, but can be used for other models. The full protocol is available at: https://dx.doi.org/10.17504/protocols.io.buf2ntqe​
 
 The script is easy to use and require only three arguments: the path for the reference genome fasta file, the genome target site and the possible alleles at this position. For example:
     
